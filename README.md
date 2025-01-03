@@ -53,11 +53,19 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
 # Story of this game 📖
+--------------------------
 
 I created this game for a school in Turkey that needed me to gamify their educational content. At that time, I was 19 years old, and the goal was to make learning more engaging through a fun maze game.
 
 The game was designed to challenge students’ problem-solving abilities and test their mathematical skills after completing the maze. Once players win, they are prompted with a random math question to reinforce learning in a playful and interactive way.
 
 This project was an exciting opportunity to combine game development with educational concepts, and it remains one of my favorite experiences as a game developer.
+
+
+
+# 🎮 Demo 🎮
+--------------------------
+
+Try the playable demo here: [Maze Game Demo](https://abo-7mood.itch.io/2d-maze)
 
 
