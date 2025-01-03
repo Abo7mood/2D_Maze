@@ -1,4 +1,5 @@
 # 2D Maze Game 🎮
+--------------------------
 
 Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game developed using the **Unity Engine**. The main objective is to navigate through the maze and reach the goal to win. Test your problem-solving skills and have fun beating the maze! 🧩
 
