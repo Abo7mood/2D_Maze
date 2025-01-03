@@ -4,6 +4,13 @@ Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game develop
 
 ![image](https://github.com/user-attachments/assets/1ebea80f-d0ab-4d8f-8a81-a1d50449292c)
 
+
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows 🖥️  Web 🌍
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 3D Game 🌍
+
 ## 🌟 Key Features 🌟
 
 - **Navigate the Maze**: Solve challenging mazes to reach the goal and claim victory! 🏆
