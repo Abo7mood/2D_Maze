@@ -5,6 +5,8 @@ Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game develop
 
 ![image](https://github.com/user-attachments/assets/1ebea80f-d0ab-4d8f-8a81-a1d50449292c)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
 
 ## 🎮 Gameplay Details 🎮
 
