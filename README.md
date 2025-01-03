@@ -1,6 +1,7 @@
 # 2D Maze Game 🎮
 
 Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game developed using the **Unity Engine**. The main objective is to navigate through the maze and reach the goal to win. Test your problem-solving skills and have fun beating the maze! 🧩
+
 ![image](https://github.com/user-attachments/assets/1ebea80f-d0ab-4d8f-8a81-a1d50449292c)
 
 ## 🌟 Key Features 🌟
@@ -10,6 +11,8 @@ Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game develop
 - **Made with Unity**: Developed with the Unity Engine for smooth and dynamic gameplay. 🎮
 - **Problem-Solving Challenge**: Sharpen your problem-solving skills with progressively difficult mazes. 🧠
 - **Ready to Play**: The game is complete and ready for you to enjoy. 🎉
+- **Math Challenge After Winning:** After winning the maze, you'll face a random math question to test your skills! 🧮
+- **Ready to Play:** The game is complete and ready for you to enjoy. 🎉
 
 ## 🔧 Technologies Used 🔧
 
@@ -41,4 +44,13 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
+
+# Story of this game 📖
+
+I created this game for a school in Turkey that needed me to gamify their educational content. At that time, I was 19 years old, and the goal was to make learning more engaging through a fun maze game.
+
+The game was designed to challenge students’ problem-solving abilities and test their mathematical skills after completing the maze. Once players win, they are prompted with a random math question to reinforce learning in a playful and interactive way.
+
+This project was an exciting opportunity to combine game development with educational concepts, and it remains one of my favorite experiences as a game developer.
+
 
