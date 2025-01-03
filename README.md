@@ -1,5 +1,5 @@
 # 2D Maze Game 🎮
---------------------------
+
 
 Welcome to the **2D Maze Game**! 🎮 This is a simple yet engaging game developed using the **Unity Engine**. The main objective is to navigate through the maze and reach the goal to win. Test your problem-solving skills and have fun beating the maze! 🧩
 
@@ -54,7 +54,6 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
 # Story of this game 📖
---------------------------
 
 I created this game for a school in Turkey that needed me to gamify their educational content. At that time, I was 19 years old, and the goal was to make learning more engaging through a fun maze game.
 
@@ -65,7 +64,7 @@ This project was an exciting opportunity to combine game development with educat
 
 
 # 🎮 Demo 🎮
---------------------------
+
 
 Try the playable demo here: [Maze Game Demo](https://abo-7mood.itch.io/2d-maze)
 
