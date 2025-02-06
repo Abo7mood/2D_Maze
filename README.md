@@ -63,6 +63,8 @@ This project was an **exciting opportunity** to combine **game development with 
 
 - **Web Version**: [Play here](https://abo-7mood.itch.io/2d-maze)
 - **Windows Demo**: Available in **/Game/Windows**
+- 
+## status: done 🟢
 
 # لعبة المتاهة ثنائية الأبعاد 🎮
 --------------------------
@@ -130,3 +132,4 @@ This project was an **exciting opportunity** to combine **game development with 
 - **نسخة الويب**: [جربها هنا](https://abo-7mood.itch.io/2d-maze)
 - **نسخة ويندوز**: تقدر تحملها من **/Game/Windows**
 
+## الحالة : تم الإنتهاء 🟢
